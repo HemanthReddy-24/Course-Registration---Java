@@ -1,7 +1,8 @@
 **Course Registration System**
 
 
-**Description**
+**Description**:
+
 This project is a simple Course Registration System implemented in Java. It allows students to register for courses, view available courses, and manage course registrations. The project uses various data structures and algorithms, including arrays, linked lists, stacks, queues, and priority queues.
 
 **Features**:
